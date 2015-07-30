@@ -10,6 +10,10 @@ With [npm](https://npmjs.org/package/postcss-convert-values) do:
 npm install postcss-convert-values --save
 ```
 
+## Technique description
+
+This plugin makes use of a different CSS units to reduce the size of output file. You can read more about those units in [this article](https://css-tricks.com/the-lengths-of-css/).
+
 ## Example
 
 ```js
